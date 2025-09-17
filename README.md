@@ -1,6 +1,6 @@
 # Sales Report: Data Pipeline and Power BI Dashboard
 
-!["Sales Dashboard"](preview2.png)
+!["Sales Dashboard"](preview.png)
 
 This project creates a data pipeline to transform Excel sales data into interactive Power BI visualizations. A Python script extracts data from multiple Excel worksheets and loads it into a PostgreSQL database as individual tables. Power BI connects to the database to generate dynamic sales dashboard.
 
