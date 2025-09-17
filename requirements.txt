@@ -1,0 +1,10 @@
+\copy customers FROM 'C:/Users/HP/Documents/Project 3/data/olist_customers_dataset.csv' WITH CSV HEADER;
+\copy geolocation FROM 'C:/Users/HP/Documents/Project 3/data/olist_geolocation_dataset.csv' WITH CSV HEADER;
+\copy orders FROM 'C:/Users/HP/Documents/Project 3/data/olist_orders_dataset.csv' WITH CSV HEADER;
+\copy order_items FROM 'C:/Users/HP/Documents/Project 3/data/olist_order_items_dataset.csv' WITH CSV HEADER;
+\copy order_payments FROM 'C:/Users/HP/Documents/Project 3/data/olist_order_payments_dataset.csv' WITH CSV HEADER;
+\copy order_reviews FROM 'C:/Users/HP/Documents/Project 3/data/olist_order_reviews_dataset.csv' WITH CSV HEADER;
+\copy products FROM 'C:/Users/HP/Documents/Project 3/data/olist_products_dataset.csv' WITH CSV HEADER;
+\copy sellers FROM 'C:/Users/HP/Documents/Project 3/data/olist_sellers_dataset.csv' WITH CSV HEADER;
+\copy product_categories FROM 'C:/Users/HP/Documents/Project 3/data/product_category_name_translation.csv' WITH CSV HEADER;
+
